@@ -1,8 +1,8 @@
 h1 {
   font-family: "Roboto Flex", sans-serif;
   font-weight: 700;
-  font-size: 35px;
-  color: #6418af;
+  font-size: 30px;
+  color: #470665;
   line-height: 30px;
 }
 
@@ -13,15 +13,15 @@ h2 {
 }
 
 body {
-  background-color: bisque;
+  background-color: #DCD5EB;
   font-family: 'Gill Sans', sans-serif;
   line-height: 30px;
 }
 
 a {
   text-decoration: none;
-  font-size: 50px;
-  color:#6418af;
+  font-size: 30px;
+  color:#470665;
 }
 
 a:hover {
@@ -39,7 +39,8 @@ a:hover {
   margin: 20px auto;
   padding: 30px;
   border-radius: 4px;
-  box-shadow: 0 10px 30px rgba(0,0,0,.1);
+  box-shadow: 10 10px 30px rgba(0,0,0,.25);
+  border: #47066575 solid 1px;
 }
 
 .circle-image {
